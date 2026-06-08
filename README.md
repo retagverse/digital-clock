@@ -1,2 +1,1 @@
-# digital-clock
-Console-based digital clock developed in C++.
+A console-based Digital Clock built in C++ that displays the current system time and date in real time. The application updates every second and supports both 12-hour and 24-hour formats. This project demonstrates the use of loops, functions, conditional statements, and C++ time libraries.
